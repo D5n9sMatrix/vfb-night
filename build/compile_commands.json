@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/vfb-night/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-night.dir/vfb-night.cpp.o -c /home/denis/vfb-net/vfb-night/vfb-night.cpp",
+  "file": "/home/denis/vfb-net/vfb-night/vfb-night.cpp"
+}
+]
